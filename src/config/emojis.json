@@ -1,0 +1,59 @@
+{
+    "normal": {
+        "error": "❌",
+        "check": "✔️",
+        "music": "🎵",
+        "volume": "🔉",
+        "ball": "🎱",
+        "christmas": "🎄",
+        "heart": "❤️",
+        "paper": "📰",
+        "scissors": "✂️",
+        "stone": "🪨",
+        "pong": "🏓",
+        "birthday": "🎂",
+        "clock": "⏰",
+        "gift": "🎁",
+        "medal": "🏅",
+        "party": "🎉",
+        "info": "ℹ️",
+        "arrowDown": "⬇️",
+        "arrowUp": "⬆️",
+        "dcredits": "💳",
+        "tv": "📺",
+        "slash": ""
+    },
+
+    "Bot": {
+        "add": "📥",
+        "info": "ℹ️",
+        "min": "🔻"
+    },
+
+    "economy": {
+        "pocket": "👛",
+        "bank": "🏦",
+        "coins": "💰"
+    },
+
+    "music": {
+        "next": "⏭️",
+        "pause": "⏸️",
+        "previous": "⏮️",
+        "stop": "⏹️",
+        "play": "▶️"
+    },
+
+    "badges": {
+        "developer": "<:Developer:1272653781472907328>",	
+        "team": "<:Team:1272653666750562304>",
+		"lairstaff": "<:LairStaff:1272684133813846127>",
+		"bughunter": "<:BugHunter:1272707947344171168>",
+		"partner": "<:partner:1272735031990947860>",
+		"hoe": "<:hoeheart:1233496314927644823>"
+    },
+
+    "animated": {
+        "loading": "🔄️"
+    }
+}
